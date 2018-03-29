@@ -10,8 +10,6 @@ _Simple HTML page displaying Hello World, as well as an unordered list of progra
 
 <kbd><img src="img/screenshot.png" alt=""></kbd>
 
-![ScreenShot](https://raw.github.com/kailagoff/hello-world/img/screenshot.png)
-
 
 ## Setup/Installation Requirements
 
