@@ -8,7 +8,7 @@
 
 _Simple HTML page displaying Hello World, as well as an unordered list of programming languages that Epicodus teaches._
 
-<kbd><img src="public/img/screenshot.png" alt=""></kbd>
+<kbd><img src="../img/screenshot.png" alt=""></kbd>
 
 
 ## Setup/Installation Requirements
