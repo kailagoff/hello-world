@@ -8,9 +8,9 @@
 
 _Simple HTML page displaying Hello World, as well as an unordered list of programming languages that Epicodus teaches._
 
-<kbd><img src="public/img/screenshot.png" alt=""></kbd>
+<kbd><img src="img/screenshot.png" alt=""></kbd>
 
-![ScreenShot](https://raw.github.com/kailagoff/hello-world/public/img/screenshot.png)
+![ScreenShot](https://raw.github.com/kailagoff/hello-world/img/screenshot.png)
 
 
 ## Setup/Installation Requirements
